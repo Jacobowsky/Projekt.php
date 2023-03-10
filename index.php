@@ -29,6 +29,9 @@
       Kobieta<input type="radio" name="gender" value="female">
       Mężczyzna<input type="radio" name="gender" value="male">
       Inna<input type="radio" name="gender" value="other">
+      <?php 
+      echo "chad";
+      ?>
 
       <input type="submit" value="Zarejestruj się!">     
   </form>
